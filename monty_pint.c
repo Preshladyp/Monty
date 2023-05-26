@@ -1,6 +1,9 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
- * f_pint -This should prints the top
+ * f_pint -This function prints the top
+ * @head: stack head
+ * @counter: line_number
  * Return: no return
 */
 void f_pint(stack_t **head, unsigned int counter)

@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
  * f_div -This task divides the top two elements of the stack.
  * Return: no return

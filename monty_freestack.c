@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
 * free_stack -This task frees a doubly linked list.
 */

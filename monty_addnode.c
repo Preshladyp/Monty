@@ -1,6 +1,9 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
- * addnode -This task add node to the head.
+ * addnode - add node to the head stack
+ * @head: head of the stack
+ * @n: new_value
  * Return: no return
 */
 void addnode(stack_t **head, int n)

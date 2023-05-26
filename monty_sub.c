@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
   *f_sub-This carrys out substration function
   *Return: no return

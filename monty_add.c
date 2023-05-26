@@ -1,6 +1,9 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
- * f_add -This tasks adds the top two elements of the stack.
+ * f_add - adds the top two elements of the stack.
+ * @head: stack head
+ * @counter: line_number
  * Return: no return
 */
 void f_add(stack_t **head, unsigned int counter)

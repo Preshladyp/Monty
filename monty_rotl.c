@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
   *f_rotl-This automatically rotates the stack to the top
   *Return: no return

@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
  * f_pstr -This task prints the string starting at the top of the stack,
  * followed by a new for monty

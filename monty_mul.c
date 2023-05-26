@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
  * f_mul -This task multiplies the top two elements of the stack.
  * Return: no return

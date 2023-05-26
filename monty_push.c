@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
  * f_push -This automatically add node to the stack
  * Return: no return

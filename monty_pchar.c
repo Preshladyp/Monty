@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
  * f_pchar -This task prints the char at the top of the stack,
  * followed by a new line there after

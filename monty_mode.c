@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
  * f_mod -This task computes the rest of the division of the second
  * Return: no return

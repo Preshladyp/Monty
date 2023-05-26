@@ -1,4 +1,5 @@
 #include "monty.h"
+#define _GNU_SOURCE
 /**
 * execute -This task executes the opcode
 * @stack:Represents head linked list - stack
